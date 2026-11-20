@@ -9,7 +9,7 @@ The application is developed primarily in Google Colab using Python and integrat
 
 The user interface is built with Gradio, providing a simple and interactive way to communicate with the AI agent.
 
-✨ Key Features
+## Key Features
 🎤 Audio Input: Accepts voice/audio recordings as user input. 
 📝 Text Input: Allows users to enter text directly into the assistant. 
 🤖 AI-Powered Processing: Uses AI models and APIs to process user input and generate responses. 
@@ -18,9 +18,8 @@ The user interface is built with Gradio, providing a simple and interactive way 
 💬 Basic Chat Interface: Provides a conversational interface for interacting with the AI agent. 
 🖥️ Interactive User Interface: Uses Gradio to make the application accessible through a simple web interface. 
 ☁️ Google Colab Integration: Developed and tested in a Google Colab environment.
-🛠️ Technologies & Tools.
 
-The project uses the following technologies and Python libraries:
+## Technologies & Tools.
 
 Technology	Purpose.
 Python	Core programming language. 
